@@ -1,0 +1,46 @@
+{
+	"title": "Javascript Quiz",
+	"language": "javascript",
+	"questions": [{
+		"question": "For the code below, what is the value of <em>foo</em>",
+		"code": "var foo = [] == true",
+		"options": [{
+			"id": "1",
+			"text": "true"
+		}, {
+			"id": "2",
+			"text": "false"
+		}, {
+			"id": "3",
+			"text": "[]"
+		}, {
+			"id": "4",
+			"text": "null"
+		}],
+		"answer": {
+			"value": "2"
+		}
+	}, {
+		"question": "What will the following code print to console",
+		"code": "function sayHi () {\n\treturn\n\t\"Hello \" +\n\t\"World\";\n}\nconsole.log(sayHi())",
+		"options": [{
+			"id": "1",
+			"text": "Hello World"
+		}, {
+			"id": "2",
+			"text": "null"
+		}, {
+			"id": "3",
+			"text": "Hello"
+		}, {
+			"id": "4",
+			"text": "World"
+		}, {
+			"id": "5",
+			"text": "undefined"
+		}],
+		"answer": {
+			"value": "5"
+		}
+	}]
+}

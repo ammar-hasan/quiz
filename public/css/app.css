@@ -1,0 +1,24 @@
+.page-heading {
+	width: 100%;
+	text-align: center;
+}
+
+.main-content .section-title {
+	width: 100%;
+	text-align: center;
+}
+
+.main-content .child-content {
+	border: 1px solid gray;
+}
+
+.txt-transcript {
+	min-height: 220px;
+	background-color: #e9ecef;
+	border-radius: 8px;
+	border: 1px solid #c9cdd0;
+}
+
+.center-text {
+	text-align: center;
+}
