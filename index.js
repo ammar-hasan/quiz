@@ -15,4 +15,4 @@ app.all('/api/quiz/js', function(req, res) {
 	})
 })
 
-app.listen(3000, () => console.log('Speech apis comparison server listening on port 3000!'))
+app.listen(3010, () => console.log('Quiz app listening on port 3010!'))
